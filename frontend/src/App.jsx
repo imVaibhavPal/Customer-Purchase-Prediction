@@ -53,7 +53,7 @@ function App() {
     setResult(null);
 
     try {
-      const response = await fetch('https://customer-purchase-prediction-otnn.onrender.com/predict', {
+      const response = await fetch('https://customer-purchase-prediction-jp4n.onrender.com/predict', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
