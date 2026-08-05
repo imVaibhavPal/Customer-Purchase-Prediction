@@ -5,6 +5,8 @@ A full-stack machine learning application designed to predict whether a customer
 
 ---
 
+## Google Drive Link - https://drive.google.com/file/d/1p5puhgIBpOYsvNBDA1xyKdxN29w6QlV2/view?usp=drive_link
+
 ##  Project Architecture
 
 The system is split into three primary components:
