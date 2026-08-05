@@ -5,7 +5,10 @@ A full-stack machine learning application designed to predict whether a customer
 
 ---
 
-## Google Drive Link - https://drive.google.com/file/d/1p5puhgIBpOYsvNBDA1xyKdxN29w6QlV2/view?usp=drive_link
+## 📚 Documentation
+
+- 📄 **Project Report:** [View Report](https://drive.google.com/file/d/1p5puhgIBpOYsvNBDA1xyKdxN29w6QlV2/view?usp=sharing)
+- 📊 **Presentation:** [View PPT](https://docs.google.com/presentation/d/1s-2HwjRZjIASKQd4w2Ust8umFtvtLM1P/edit?usp=drive_link&ouid=100467381128900079847&rtpof=true&sd=true)
 
 ##  Project Architecture
 
